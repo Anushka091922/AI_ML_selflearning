@@ -1,2 +1,2 @@
-# Deep_Learning_tutorial
-These are my notes on the deep learning
+# AI_ML_SelfLearning 
+This is the material and the practice sheets I use for practicing artificial intelligence and the machine learning code 
